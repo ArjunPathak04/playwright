@@ -1,0 +1,4 @@
+- name: Debug Info
+  run: |
+    node -v
+    npx playwright --version
